@@ -1,0 +1,2 @@
+-- DuckDB CLI or Python: duckdb.connect()
+INSTALL httpfs; LOAD httpfs;
